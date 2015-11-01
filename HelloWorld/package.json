@@ -6,5 +6,10 @@
   "author": {
     "name": "Manu",
     "email": ""
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "requirejs": "^2.1.20",
+    "tsd": "^0.6.5"
   }
 }
